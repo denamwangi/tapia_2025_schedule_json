@@ -1,0 +1,628 @@
+{
+  "scraped_at": "2025-08-22T16:54:27.758166",
+  "source": "example_table_html.txt",
+  "total_items": 69,
+  "schedule_items": [
+    {
+      "time": "1:00pm - 3:10pm CDT",
+      "type": "Panel, Workshop",
+      "session_presentation": "CMD-IT Student Professional Development Workshop Panels (Open Invitation)",
+      "contributors": "",
+      "location": "Texas 1-3",
+      "session_id": "sess148",
+      "room_id": "room113"
+    },
+    {
+      "time": "2:00pm - 4:00pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Graduate School Funding Opportunities & The GEM Fellowship (Open Invitation)",
+      "contributors": "Marcus Huggans",
+      "location": "Dallas 5-7",
+      "session_id": "sess196",
+      "room_id": "room104"
+    },
+    {
+      "time": "3:30pm - 4:15pm CDT",
+      "type": "Workshop",
+      "session_presentation": "CMD-IT SPDW Resume Session (Groups Assigned During Panel Session)",
+      "contributors": "",
+      "location": "Texas 4",
+      "session_id": "sess149",
+      "room_id": "room114"
+    },
+    {
+      "time": "4:30pm - 5:00pm CDT",
+      "type": "Reception",
+      "session_presentation": "Tapia 2025 Welcome & Reception",
+      "contributors": "",
+      "location": "Texas Ballroom",
+      "session_id": "sess195",
+      "room_id": "room108"
+    },
+    {
+      "time": "5:00pm - 8:00pm CDT",
+      "type": "Career Fair",
+      "session_presentation": "Career Fair & Graduate Application Reviews",
+      "contributors": "",
+      "location": "Longhorn Hall D",
+      "session_id": "sess107",
+      "room_id": "room109"
+    },
+    {
+      "time": "8:00am - 9:00am CDT",
+      "type": "STARS",
+      "session_presentation": "STARS Breakfast (Private Event)",
+      "contributors": "",
+      "location": "San Antonio 4-6",
+      "session_id": "sess150",
+      "room_id": "room103"
+    },
+    {
+      "time": "9:00am - 10:30am CDT",
+      "type": "Plenary, Snack Break",
+      "session_presentation": "Welcome & Fireside Chat",
+      "contributors": "",
+      "location": "Texas Ballroom",
+      "session_id": "sess112",
+      "room_id": "room108"
+    },
+    {
+      "time": "10:30am - 12:00pm CDT",
+      "type": "Career Fair",
+      "session_presentation": "Career Fair & Graduate Application Reviews",
+      "contributors": "",
+      "location": "Longhorn Hall D",
+      "session_id": "sess113",
+      "room_id": "room109"
+    },
+    {
+      "time": "10:30am - 11:45am CDT",
+      "type": "Lunch, Posters",
+      "session_presentation": "Private Student Poster Presenters' Luncheon (Invitation Only)",
+      "contributors": "",
+      "location": "Texas Center Prefunction",
+      "session_id": "sess115",
+      "room_id": "room131"
+    },
+    {
+      "time": "10:45am - 1:15pm CDT",
+      "type": "Workshop",
+      "session_presentation": "CMD-IT Industry Leadership Workshop Pt. 1",
+      "contributors": "Joseph Dinunzio",
+      "location": "San Antonio 1-3",
+      "session_id": "sess142",
+      "room_id": "room102"
+    },
+    {
+      "time": "10:45am - 11:45am CDT",
+      "type": "Birds of a Feather",
+      "session_presentation": "Diversity Includes Disability",
+      "contributors": "Brianna Blaser, Maya Cakmak, Richard Ladner, Rob Parke, Cathy Law",
+      "location": "Texas 1-2",
+      "session_id": "sess156",
+      "room_id": "room105"
+    },
+    {
+      "time": "10:45am - 12:00pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Leveraging Generative AI for Protein Engineering",
+      "contributors": "Tia Pope",
+      "location": "San Antonio 4-6",
+      "session_id": "sess163",
+      "room_id": "room103"
+    },
+    {
+      "time": "10:45am - 12:00pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Maximizing Business Value with AI: From Quick Wins to Scalable Impact",
+      "contributors": "Juan Sequeda, William Hill, Mohamed Ali",
+      "location": "Dallas 5-7",
+      "session_id": "sess202",
+      "room_id": "room104"
+    },
+    {
+      "time": "10:45am - 12:00pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Receipts And Reality: Unpacking The Research On Black Women and Girls In Computing",
+      "contributors": "Dr. Kyla Mc Mullen, Jeremy Waisome, Atayliya Irving, Khloe Wright",
+      "location": "Texas 3-4",
+      "session_id": "sess165",
+      "room_id": "room106"
+    },
+    {
+      "time": "12:00pm - 1:15pm CDT",
+      "type": "Lunch",
+      "session_presentation": "General Lunch & Networking",
+      "contributors": "",
+      "location": "Texas Ballroom",
+      "session_id": "sess118",
+      "room_id": "room108"
+    },
+    {
+      "time": "12:00pm - 1:30pm CDT",
+      "type": "Posters",
+      "session_presentation": "Tapia Student Poster & ACM Student Research Competition Round I",
+      "contributors": "",
+      "location": "Texas Center Prefunction",
+      "session_id": "sess143",
+      "room_id": "room131"
+    },
+    {
+      "time": "12:15pm - 1:15pm CDT",
+      "type": "Lunch",
+      "session_presentation": "CMD-IT Lunch (Private Event)",
+      "contributors": "",
+      "location": "Dallas 5-7",
+      "session_id": "sess117",
+      "room_id": "room104"
+    },
+    {
+      "time": "1:15pm - 4:30pm CDT",
+      "type": "Career Fair",
+      "session_presentation": "Career Fair & Graduate Application Reviews",
+      "contributors": "",
+      "location": "Longhorn Hall D",
+      "session_id": "sess114",
+      "room_id": "room109"
+    },
+    {
+      "time": "1:30pm - 2:45pm CDT",
+      "type": "Workshop",
+      "session_presentation": "CMD-IT Industry Leadership Workshop Pt. 2",
+      "contributors": "Joseph Dinunzio",
+      "location": "San Antonio 1-3",
+      "session_id": "sess144",
+      "room_id": "room102"
+    },
+    {
+      "time": "1:30pm - 2:45pm CDT",
+      "type": "Panels & Workshops",
+      "session_presentation": "Entrepreneurship in Computing",
+      "contributors": "Ph.D. AliciaMakaye, George Makaye, Albert Marquez, Ieshea Hollins",
+      "location": "Texas 5-6",
+      "session_id": "sess212",
+      "room_id": "room107"
+    },
+    {
+      "time": "1:30pm - 2:45pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Generative AI Tutorial",
+      "contributors": "",
+      "location": "San Antonio 4-6",
+      "session_id": "sess200",
+      "room_id": "room103"
+    },
+    {
+      "time": "1:30pm - 1:45pm CDT",
+      "type": "Lightning Talk",
+      "session_presentation": "Multi-Modal LLM-Driven Indoor Navigation for Users with Vision Impairment: Fusing AI, Floor Plans, and Vision",
+      "contributors": "Aydin Ayanzadeh",
+      "location": "Texas 3-4",
+      "session_id": "sess188",
+      "room_id": "room106"
+    },
+    {
+      "time": "1:30pm - 2:30pm CDT",
+      "type": "Panel",
+      "session_presentation": "Our Voices, Our Power: How Latinas Can Drive Change Through Empowerment and Advocacy",
+      "contributors": "Manuel Manuel A. Pérez Quiñones, Karla Badillo-Urquiola, Brianna Posadas",
+      "location": "Texas 1-2",
+      "session_id": "sess192",
+      "room_id": "room105"
+    },
+    {
+      "time": "1:45pm - 2:00pm CDT",
+      "type": "Lightning Talk",
+      "session_presentation": "“Never Trust, Always Verify” - Creating a Zero Trust Architecture",
+      "contributors": "Josh Tahimic",
+      "location": "Texas 3-4",
+      "session_id": "sess189",
+      "room_id": "room106"
+    },
+    {
+      "time": "2:00pm - 2:15pm CDT",
+      "type": "Lightning Talk",
+      "session_presentation": "The Rise of Intelligent Machines: How AI and Robotics are Reshaping the Future",
+      "contributors": "Sakshi Dubey",
+      "location": "Texas 3-4",
+      "session_id": "sess190",
+      "room_id": "room106"
+    },
+    {
+      "time": "3:00pm - 4:00pm CDT",
+      "type": "Presentation",
+      "session_presentation": "Broadening Participation in Computing: Strategies for Sustained Commitment",
+      "contributors": "Les Sessoms, Corina Hernandez, Lee Ann Roberts",
+      "location": "Texas 1-2",
+      "session_id": "sess182",
+      "room_id": "room105"
+    },
+    {
+      "time": "3:00pm - 4:00pm CDT",
+      "type": "Tech Talk",
+      "session_presentation": "Capital One: What It Takes to Build Technology That Serves Everyone—And to Do It at Scale",
+      "contributors": "Lo Li",
+      "location": "Texas 3-4",
+      "session_id": "sess193",
+      "room_id": "room106"
+    },
+    {
+      "time": "3:00pm - 4:00pm CDT",
+      "type": "Presentation",
+      "session_presentation": "Decoding the Cyber Workforce: Strategies for Success Starts with Boots on the Ground",
+      "contributors": "Lynn Dohm",
+      "location": "Texas 5-6",
+      "session_id": "sess167",
+      "room_id": "room107"
+    },
+    {
+      "time": "3:00pm - 4:00pm CDT",
+      "type": "Panel",
+      "session_presentation": "Rebooting Tech Culture: the Six Cs and How to Ignite Innovation and Build Organizations Where Everyone Can Thrive",
+      "contributors": "Telle Whitney, Shanna-Shaye Forbes, Mayowa Awe, Eric Marin",
+      "location": "San Antonio 1-3",
+      "session_id": "sess166",
+      "room_id": "room102"
+    },
+    {
+      "time": "3:00pm - 4:00pm CDT",
+      "type": "Panels & Workshops",
+      "session_presentation": "Rethinking Learning with GenAI: Opportunities, Challenges, and Best Practices for Educators",
+      "contributors": "Dr. Gabriela Gongora-Svartzman, Lino Coria Mendoza, Obianuju Okafor",
+      "location": "Dallas 5-7",
+      "session_id": "sess205",
+      "room_id": "room104"
+    },
+    {
+      "time": "3:00pm - 4:15pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Superconductive Electronic Computing: Foundations and Quantum Applications",
+      "contributors": "Timothy M.Pinkston, Beyza Zeynep Ucpinar, Tara Renduchintala",
+      "location": "San Antonio 4-6",
+      "session_id": "sess199",
+      "room_id": "room103"
+    },
+    {
+      "time": "4:30pm - 5:45pm CDT",
+      "type": "Posters",
+      "session_presentation": "ACM SRC Competition Round II (Graduate)",
+      "contributors": "",
+      "location": "Texas 3-4",
+      "session_id": "sess121",
+      "room_id": "room106"
+    },
+    {
+      "time": "4:30pm - 5:45pm CDT",
+      "type": "Posters",
+      "session_presentation": "ACM SRC Competition Round II (Undergraduate)",
+      "contributors": "",
+      "location": "Texas 5-6",
+      "session_id": "sess122",
+      "room_id": "room107"
+    },
+    {
+      "time": "4:30pm - 5:00pm CDT",
+      "type": "Snack Break",
+      "session_presentation": "Afternoon Break",
+      "contributors": "",
+      "location": "Texas Center Prefunction",
+      "session_id": "sess215",
+      "room_id": "room131"
+    },
+    {
+      "time": "5:00pm - 6:30pm CDT",
+      "type": "Reception",
+      "session_presentation": "CMD-IT VIP Reception (Private Event)",
+      "contributors": "",
+      "location": "San Antonio 4-6",
+      "session_id": "sess123",
+      "room_id": "room103"
+    },
+    {
+      "time": "5:30pm - 7:30pm CDT",
+      "type": "Reception",
+      "session_presentation": "Capital One Computing Disabilities Community Reception",
+      "contributors": "",
+      "location": "Texas 1-2",
+      "session_id": "sess194",
+      "room_id": "room105"
+    },
+    {
+      "time": "8:00am - 9:00am CDT",
+      "type": "STARS",
+      "session_presentation": "STARS Breakfast (Private Event)",
+      "contributors": "",
+      "location": "San Antonio 4-6",
+      "session_id": "sess151",
+      "room_id": "room103"
+    },
+    {
+      "time": "9:00am - 10:30am CDT",
+      "type": "Plenary, Snack Break",
+      "session_presentation": "Ken Kennedy Distinguished Lecture",
+      "contributors": "Rubén Lozano Aguilera",
+      "location": "Texas Ballroom",
+      "session_id": "sess130",
+      "room_id": "room108"
+    },
+    {
+      "time": "10:30am - 12:00pm CDT",
+      "type": "Career Fair",
+      "session_presentation": "Career Fair & Graduate Application Reviews",
+      "contributors": "",
+      "location": "Longhorn Hall D",
+      "session_id": "sess131",
+      "room_id": "room109"
+    },
+    {
+      "time": "10:45am - 11:45am CDT",
+      "type": "Birds of a Feather",
+      "session_presentation": "Black in Computing Community",
+      "contributors": "Dale Marie Wilson, Marlon Mejias, Yolanda Rankin, Cheryl Swanier, Felesia Stukes",
+      "location": "Texas 1-2",
+      "session_id": "sess155",
+      "room_id": "room105"
+    },
+    {
+      "time": "10:45am - 12:00pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Demystifying Secure Quantum Communication: A Hands-on Workshop for All",
+      "contributors": "Mo Hasanovic, Jason Pollack, Jae Oh",
+      "location": "San Antonio 1-3",
+      "session_id": "sess170",
+      "room_id": "room102"
+    },
+    {
+      "time": "10:45am - 12:00pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Empowering Your Voice: Using AI as an Assistant, Not a Boss",
+      "contributors": "Lino Coria Mendoza, David Paquette, Keith Bagley, Jonathan Mwaura, Alvaro Monge",
+      "location": "San Antonio 4-6",
+      "session_id": "sess168",
+      "room_id": "room103"
+    },
+    {
+      "time": "10:45am - 12:00pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Making AI Your Competitive Advantage at Work",
+      "contributors": "Rubén Lozano Aguilera, William Hill, Laura Silva H, Dena Metili Mwangi",
+      "location": "Dallas 5-7",
+      "session_id": "sess203",
+      "room_id": "room104"
+    },
+    {
+      "time": "10:45am - 12:00pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Navigating the Application Journey - From School Admissions to Job Market Success",
+      "contributors": "Cecilia Aragon, Damian Rousson, Daricia Wilkinson, Betsy Di Salvo",
+      "location": "Texas 5-6",
+      "session_id": "sess169",
+      "room_id": "room107"
+    },
+    {
+      "time": "10:45am - 11:45am CDT",
+      "type": "Presentation",
+      "session_presentation": "Representing Disability – Narratives, Models, and Justice",
+      "contributors": "Kayla Brown",
+      "location": "Texas 3-4",
+      "session_id": "sess171",
+      "room_id": "room106"
+    },
+    {
+      "time": "12:00pm - 1:15pm CDT",
+      "type": "Lunch",
+      "session_presentation": "CMD-IT Faculty Networking Lunch",
+      "contributors": "",
+      "location": "Dallas 5-7",
+      "session_id": "sess132",
+      "room_id": "room104"
+    },
+    {
+      "time": "12:00pm - 1:15pm CDT",
+      "type": "Lunch",
+      "session_presentation": "General Lunch & Networking",
+      "contributors": "",
+      "location": "Texas Ballroom",
+      "session_id": "sess133",
+      "room_id": "room108"
+    },
+    {
+      "time": "1:15pm - 5:00pm CDT",
+      "type": "Career Fair",
+      "session_presentation": "Career Fair & Graduate Application Reviews",
+      "contributors": "",
+      "location": "Longhorn Hall D",
+      "session_id": "sess213",
+      "room_id": "room109"
+    },
+    {
+      "time": "1:30pm - 2:30pm CDT",
+      "type": "Birds of a Feather",
+      "session_presentation": "Bridging the Accessibility Gap: Apprenticeships & Inclusive Career Pathways in Tech",
+      "contributors": "Mike Hess",
+      "location": "Texas 1-2",
+      "session_id": "sess154",
+      "room_id": "room105"
+    },
+    {
+      "time": "1:30pm - 2:45pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Cyber-Physical Defense in Action: A Hands-On CPS Security Workshop",
+      "contributors": "Rima Asmar Awad, Mathew Singleton",
+      "location": "Dallas 5-7",
+      "session_id": "sess173",
+      "room_id": "room104"
+    },
+    {
+      "time": "1:30pm - 2:45pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Effective Programs for Broadening Engagement in Computing",
+      "contributors": "Valerie Taylor, Brianna Blaser, Jamika Burge, Ann Gates, Timika Oridota, Susan Rodger, Joshua Childs, Jamie Payton",
+      "location": "San Antonio 1-3",
+      "session_id": "sess172",
+      "room_id": "room102"
+    },
+    {
+      "time": "1:30pm - 2:45pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Professional and Career Mentoring for Researchers in Industry and Government  Labs",
+      "contributors": "Jaime Moreno, Maged Elaasar, Taghrid Samok, Gonzalo Ramos",
+      "location": "San Antonio 4-6",
+      "session_id": "sess180",
+      "room_id": "room103"
+    },
+    {
+      "time": "1:30pm - 2:30pm CDT",
+      "type": "Panels & Workshops",
+      "session_presentation": "Sharing Strategies for Workplace Resilience",
+      "contributors": "Jazmin Ewers, Kayla Arias, Nicole Loncke, Ayshia Gibb, Jasmine Pegrem",
+      "location": "Texas 3-4",
+      "session_id": "sess209",
+      "room_id": "room106"
+    },
+    {
+      "time": "1:30pm - 1:45pm CDT",
+      "type": "Lightning Talk",
+      "session_presentation": "Wildfire Detection Using Vision Transformer Models",
+      "contributors": "Sailesh Adhikari",
+      "location": "Texas 5-6",
+      "session_id": "sess186",
+      "room_id": "room107"
+    },
+    {
+      "time": "1:45pm - 2:00pm CDT",
+      "type": "Lightning Talk",
+      "session_presentation": "From Academia to Industry: Building a Career at the Intersection of Research and Design",
+      "contributors": "Oluwatobi Lasisi",
+      "location": "Texas 5-6",
+      "session_id": "sess187",
+      "room_id": "room107"
+    },
+    {
+      "time": "3:00pm - 4:00pm CDT",
+      "type": "Birds of a Feather",
+      "session_presentation": "Hispanics in Computing",
+      "contributors": "Karla Badillo-Urquiola, Patricia Ordóñez, Alvaro Monge, Brianna Posadas, Manuel A.Pérez Quiñones, Oscar Veliz",
+      "location": "Texas 3-4",
+      "session_id": "sess159",
+      "room_id": "room106"
+    },
+    {
+      "time": "3:00pm - 4:00pm CDT",
+      "type": "Presentation",
+      "session_presentation": "CogniSphere: An AI-Driven Platform for Personalized Cognitive Wellness",
+      "contributors": "Mira Kim",
+      "location": "Texas 1-2",
+      "session_id": "sess176",
+      "room_id": "room105"
+    },
+    {
+      "time": "3:00pm - 4:15pm CDT",
+      "type": "Workshop",
+      "session_presentation": "CREATE: Culturally Responsive Education and AI Technology Exploration",
+      "contributors": "Simone Smarr, Tiffanie Smith",
+      "location": "San Antonio 1-3",
+      "session_id": "sess174",
+      "room_id": "room102"
+    },
+    {
+      "time": "3:00pm - 4:15pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Empowering Non-Coders to Build Generative-AI Apps",
+      "contributors": "David Wolber, Ashlesha Bhagat",
+      "location": "San Antonio 4-6",
+      "session_id": "sess177",
+      "room_id": "room103"
+    },
+    {
+      "time": "3:00pm - 4:00pm CDT",
+      "type": "Presentation",
+      "session_presentation": "How to Build AI Agents: A Hands-On Guide to Intelligent Agents",
+      "contributors": "Kevin Scroggins, Emmanuel Dorley",
+      "location": "Texas 5-6",
+      "session_id": "sess178",
+      "room_id": "room107"
+    },
+    {
+      "time": "3:00pm - 4:15pm CDT",
+      "type": "Workshop",
+      "session_presentation": "The Sweet Secret to Winning at Work: Guide to Creating a Leadership Presence & Image",
+      "contributors": "Brittany Brown",
+      "location": "Dallas 5-7",
+      "session_id": "sess175",
+      "room_id": "room104"
+    },
+    {
+      "time": "4:00pm - 4:30pm CDT",
+      "type": "Snack Break",
+      "session_presentation": "Afternoon Break",
+      "contributors": "",
+      "location": "Texas Center Prefunction",
+      "session_id": "sess120",
+      "room_id": "room131"
+    },
+    {
+      "time": "4:30pm - 5:30pm CDT",
+      "type": "Birds of a Feather",
+      "session_presentation": "A Graduate Student's Guide to The Faculty Job Landscape",
+      "contributors": "Patricia Ordóñez, Kendra Walther, William Bares, Nery Chapetón-Lamas",
+      "location": "Texas 1-2",
+      "session_id": "sess160",
+      "room_id": "room105"
+    },
+    {
+      "time": "4:30pm - 5:30pm CDT",
+      "type": "Presentation",
+      "session_presentation": "AI-Powered Innovations in Healthcare: Real-World Applications and Benefits",
+      "contributors": "Aarohi Tripathi",
+      "location": "Texas 3-4",
+      "session_id": "sess179",
+      "room_id": "room106"
+    },
+    {
+      "time": "4:30pm - 5:45pm CDT",
+      "type": "Workshop",
+      "session_presentation": "Breaking Bias Building Fairer AI Systems",
+      "contributors": "Srisuma Movva",
+      "location": "San Antonio 1-3",
+      "session_id": "sess181",
+      "room_id": "room102"
+    },
+    {
+      "time": "4:30pm - 5:30pm CDT",
+      "type": "Birds of a Feather",
+      "session_presentation": "Empowering Minorities: Transformative Research Opportunities for Associate Degree Students",
+      "contributors": "Jia Lu",
+      "location": "Texas 5-6",
+      "session_id": "sess161",
+      "room_id": "room107"
+    },
+    {
+      "time": "6:30pm - 9:30pm CDT",
+      "type": "Reception",
+      "session_presentation": "Tapia Awards Reception & Dance Party",
+      "contributors": "Jennifer Tour Chayes",
+      "location": "Texas Ballroom",
+      "session_id": "sess136",
+      "room_id": "room108"
+    },
+    {
+      "time": "8:00am - 5:30pm CDT",
+      "type": "STARS",
+      "session_presentation": "2025 STARS Celebration",
+      "contributors": "",
+      "location": "Grapevine A/B",
+      "session_id": "sess152",
+      "room_id": "room126"
+    },
+    {
+      "time": "9:00am - 3:00pm CDT",
+      "type": "AccessUR2PhD, Workshop",
+      "session_presentation": "Accessibility in Computer Science",
+      "contributors": "Brianna Blaser, Maya Cakmak, Richard Ladner, Raja Kushalnagar, Stacy Branham",
+      "location": "Dallas 1-2",
+      "session_id": "sess204",
+      "room_id": "room118"
+    }
+  ]
+}
