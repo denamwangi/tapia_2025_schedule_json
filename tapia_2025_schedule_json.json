@@ -1,6 +1,7 @@
 {
-  "scraped_at": "2025-08-22T16:54:27.758166",
-  "source": "example_table_html.txt",
+  "scraped_at": "2025-08-24T10:15:24.126899",
+  "source_url": "https://tapiaconference.cmd-it.org/attend/schedule/",
+  "scraping_method": "selenium",
   "total_items": 69,
   "schedule_items": [
     {
@@ -10,7 +11,8 @@
       "contributors": "",
       "location": "Texas 1-3",
       "session_id": "sess148",
-      "room_id": "room113"
+      "room_id": "room113",
+      "description": "The Student Professional Development Workshop (SPDW) provides undergraduates and masters level students in computing with the unique opportunity to receive professional development from industry and government professionals. SPDW includes two panels whereby professionals share best practices for effective resumes and successful interview skills. The session provides a safe space for students to ask questions. The panels are scheduled for 1:00pm - 3:10pm. Following the two panels, students will have an opportunity to receive feedback on their resumes during the Resume Review, scheduled for 3:30pm - 4:15pm. Each student will receive one resume review from a mentor who will provide targeted feedback to strengthen the resume. The reviews will take place in groups, with the group passes distributed during the panel session. Please bring paper copies of your resume for the review."
     },
     {
       "time": "2:00pm - 4:00pm CDT",
@@ -19,7 +21,8 @@
       "contributors": "Marcus Huggans",
       "location": "Dallas 5-7",
       "session_id": "sess196",
-      "room_id": "room104"
+      "room_id": "room104",
+      "description": "“Show me the Money” … and then give it to me! During this workshop you will find how to identify and apply for funding whether you are in graduate school or just finishing your first semester as an undergraduate. This information will give you insight on how much money is available, how to find it, how to apply for it, and how to secure it! Come find out why no one should pay for graduate school if they go about it correctly!"
     },
     {
       "time": "3:30pm - 4:15pm CDT",
@@ -28,7 +31,8 @@
       "contributors": "",
       "location": "Texas 4",
       "session_id": "sess149",
-      "room_id": "room114"
+      "room_id": "room114",
+      "description": ""
     },
     {
       "time": "4:30pm - 5:00pm CDT",
@@ -37,7 +41,8 @@
       "contributors": "",
       "location": "Texas Ballroom",
       "session_id": "sess195",
-      "room_id": "room108"
+      "room_id": "room108",
+      "description": ""
     },
     {
       "time": "5:00pm - 8:00pm CDT",
@@ -46,7 +51,8 @@
       "contributors": "",
       "location": "Longhorn Hall D",
       "session_id": "sess107",
-      "room_id": "room109"
+      "room_id": "room109",
+      "description": ""
     },
     {
       "time": "8:00am - 9:00am CDT",
@@ -55,7 +61,8 @@
       "contributors": "",
       "location": "San Antonio 4-6",
       "session_id": "sess150",
-      "room_id": "room103"
+      "room_id": "room103",
+      "description": ""
     },
     {
       "time": "9:00am - 10:30am CDT",
@@ -64,7 +71,8 @@
       "contributors": "",
       "location": "Texas Ballroom",
       "session_id": "sess112",
-      "room_id": "room108"
+      "room_id": "room108",
+      "description": ""
     },
     {
       "time": "10:30am - 12:00pm CDT",
@@ -73,7 +81,8 @@
       "contributors": "",
       "location": "Longhorn Hall D",
       "session_id": "sess113",
-      "room_id": "room109"
+      "room_id": "room109",
+      "description": ""
     },
     {
       "time": "10:30am - 11:45am CDT",
@@ -82,7 +91,8 @@
       "contributors": "",
       "location": "Texas Center Prefunction",
       "session_id": "sess115",
-      "room_id": "room131"
+      "room_id": "room131",
+      "description": ""
     },
     {
       "time": "10:45am - 1:15pm CDT",
@@ -91,7 +101,8 @@
       "contributors": "Joseph Dinunzio",
       "location": "San Antonio 1-3",
       "session_id": "sess142",
-      "room_id": "room102"
+      "room_id": "room102",
+      "description": "Industry and technical professionals from the CMD-IT community are looking for ways to continue to grow their leadership and networking skills, to support their career development and drive impact in their companies and their communities. In this two-part workshop, we provide insights and guidance in five key areas: 1. The importance of defining your “Hero’s Journey” -- developing and following an aspirational plan to guide your career 2. The impact of a growth mindset on your personal and professional development 3. The need to invest in building an impactful network and evolving it over time, including mentors, colleagues, and mentees 4. Steps you can take to strengthen your work relationships and grow those outside of your current network 5. A call to action -- what to do next The workshop is divided into two parts: Part 1 includes a mix of speaker presentations and small group exercises, with lunch provided. Part 2 includes a guest panel of industry experts who will share their experiences and insights with participants. Two brief activities are required as advance preparation for the breakout sessions. Instructors will be available for Q&A during and after the session."
     },
     {
       "time": "10:45am - 11:45am CDT",
@@ -100,7 +111,8 @@
       "contributors": "Brianna Blaser, Maya Cakmak, Richard Ladner, Rob Parke, Cathy Law",
       "location": "Texas 1-2",
       "session_id": "sess156",
-      "room_id": "room105"
+      "room_id": "room105",
+      "description": "According to the most recent Computing Research Association Taulbee Survey (2023), about 3.4% of undergraduate computing students and less than 2% of computing masters and PhD students receive disability accommodations from their universities. Computing students and professionals with disabilities can feel isolated and may not know other disabled people. To address this isolation and to increase accessibility awareness, universities, broadening participation projects, and employers should actively be thinking about accessibility as part of their work related to equity and inclusion. This Birds of a Feather session will bring together people who have a disability or who are interested in supporting individuals with disabilities in computing education or careers. The goal of the session is to build community and to learn from each other about strategies for achieving success and ensuring that computing fields are welcoming and accessible to individuals with disabilities. At this particular moment, some people with disabilities feel threatened by both DEIA rolls back and the challenges to Section 504. Gathering together can be a source of strength, community building, and resilience. The session will begin with brief introductions from the presenters and attendees. The session will include information about internships, mentoring, and career development opportunities for students with disabilities as well as resources for educators and employers who would like to be more welcoming and accessible to individuals with disabilities. There will be a brief overview of relevant topics and large group discussion through which we will hone in on topics to be discussed in small groups. Topics discussed could include: accessibility in computing education, disclosing disability status in interviews, recruiting and retaining employees and interns with disabilities, and including people with disabilities in broadening participation activities. Presenters will spread out amongst the smaller groups to facilitate discussion. The session will conclude with report outs from the smaller groups and ways to stay connected after the conference. The target audience includes students and professionals with disabilities as well as faculty, industry representatives, and professionals interested in supporting individuals with disabilities in their education or career. The organizers include people with disabilities and the leaders of AccessComputing and AccessCSforAll, projects that work nationwide to increase the participation of individuals with disabilities in computing education and careers. Through this work, they regularly interact with a variety of stakeholders interested in this topic including people with disabilities, computing educators, disability service professionals, and computing employers."
     },
     {
       "time": "10:45am - 12:00pm CDT",
@@ -109,7 +121,8 @@
       "contributors": "Tia Pope",
       "location": "San Antonio 4-6",
       "session_id": "sess163",
-      "room_id": "room103"
+      "room_id": "room103",
+      "description": "Advancements in generative AI have revolutionized protein engineering, making it more accessible and accelerating breakthroughs in biotechnology, medicine and synthetic biology. This workshop will introduce participants to the fundamentals of protein engineering and demonstrate how generative they can leverage AI to design, analyze, and predict protein structures. We will explore key protein databases and visualization tools such as ChimeraX to examine 3D protein structures, analyze homology, and customize molecular views. Attendees will gain hands-on experience using generative AI tools like ProtGPT2 and EvoDiff hosted in HuggingFace to design novel proteins and predict their folds with AlphaFold. Additionally, we will compare generated proteins to existing ones in databases and discuss potential applications in drug discovery, enzyme design and synthetic biology. Participants will receive digital materials, including interactive notebooks, datasets and step-by-step guides, enabling them to replicate the techniques demonstrated. Attendees will have practical knowledge of AI-driven protein engineering workflows and a deeper understanding of how diversity in scientific research enhances innovation in computational biology. The session is ideal for students, researchers and professionals interested in engineering at the intersection of biotechnology, AI and bioinformatics—no prior experience required."
     },
     {
       "time": "10:45am - 12:00pm CDT",
@@ -118,7 +131,8 @@
       "contributors": "Juan Sequeda, William Hill, Mohamed Ali",
       "location": "Dallas 5-7",
       "session_id": "sess202",
-      "room_id": "room104"
+      "room_id": "room104",
+      "description": "AI is only valuable when it delivers outcomes that matter. As AI adoption accelerates, organizations are under pressure to move beyond experimentation and prove that AI can drive real business impact. This session explores how technical leaders and founders are turning AI into business value—from early quick wins to scalable, long-term impact. Panelists will discuss how to align AI projects with strategic objectives, avoid the pitfalls of implementing AI without clear ROI, and manage the unique challenges across different industries and regulatory landscapes. Whether you're testing a pilot or scaling across an enterprise, you’ll gain practical insights to turn AI into a true business advantage."
     },
     {
       "time": "10:45am - 12:00pm CDT",
@@ -127,7 +141,8 @@
       "contributors": "Dr. Kyla Mc Mullen, Jeremy Waisome, Atayliya Irving, Khloe Wright",
       "location": "Texas 3-4",
       "session_id": "sess165",
-      "room_id": "room106"
+      "room_id": "room106",
+      "description": "This collaborative, interactive workshop brings together researchers, industry professionals, and advocates to critically examine and refine findings from a comprehensive literature review on Black women and girls in computing. This session is part of an NSF Broadening Participation in Computing (BPC) effort to identify key themes, research gaps, and evidence-based strategies to improve the representation and retention of Black women and girls in computing. Despite ongoing efforts, Black women remain significantly underrepresented in computing, and existing research is often fragmented. This workshop will provide a structured and engaging space to assess what the research tells us, where gaps remain, and what new directions are needed. In this 90-minute session, researchers will present findings from initial literature reviews, thus setting the stage for a dynamic and participatory discussion. Attendees will listen to curated podcast clips featuring first-hand narratives of Black women in computing, offering personal insights into the challenges and successes within the field. These stories will frame small-group breakout discussions, where participants will analyze key themes, identify gaps, and provide feedback on emerging findings. Insights from this session will directly contribute to a report that will inform a forthcoming scoping review, shaping the direction of future research on Black women’s experiences in computing. By fostering dialogue, this workshop will drive meaningful action toward equity and inclusion in computing."
     },
     {
       "time": "12:00pm - 1:15pm CDT",
@@ -136,7 +151,8 @@
       "contributors": "",
       "location": "Texas Ballroom",
       "session_id": "sess118",
-      "room_id": "room108"
+      "room_id": "room108",
+      "description": ""
     },
     {
       "time": "12:00pm - 1:30pm CDT",
@@ -145,7 +161,8 @@
       "contributors": "",
       "location": "Texas Center Prefunction",
       "session_id": "sess143",
-      "room_id": "room131"
+      "room_id": "room131",
+      "description": "Tapia Student Poster & ACM Student Research Competition Round I"
     },
     {
       "time": "12:15pm - 1:15pm CDT",
@@ -154,7 +171,8 @@
       "contributors": "",
       "location": "Dallas 5-7",
       "session_id": "sess117",
-      "room_id": "room104"
+      "room_id": "room104",
+      "description": ""
     },
     {
       "time": "1:15pm - 4:30pm CDT",
@@ -163,7 +181,8 @@
       "contributors": "",
       "location": "Longhorn Hall D",
       "session_id": "sess114",
-      "room_id": "room109"
+      "room_id": "room109",
+      "description": ""
     },
     {
       "time": "1:30pm - 2:45pm CDT",
@@ -172,7 +191,8 @@
       "contributors": "Joseph Dinunzio",
       "location": "San Antonio 1-3",
       "session_id": "sess144",
-      "room_id": "room102"
+      "room_id": "room102",
+      "description": "Industry and technical professionals from the CMD-IT community are looking for ways to continue to grow their leadership and networking skills, to support their career development and drive impact in their companies and their communities. In this two-part workshop, we provide insights and guidance in five key areas: 1. The importance of defining your “Hero’s Journey” -- developing and following an aspirational plan to guide your career 2. The impact of a growth mindset on your personal and professional development 3. The need to invest in building an impactful network and evolving it over time, including mentors, colleagues, and mentees 4. Steps you can take to strengthen your work relationships and grow those outside of your current network 5. A call to action -- what to do next The workshop is divided into two parts: Part 1 includes a mix of speaker presentations and small group exercises, with lunch provided. Part 2 includes a guest panel of industry experts who will share their experiences and insights with participants. Two brief activities are required as advance preparation for the breakout sessions. Instructors will be available for Q&A during and after the session."
     },
     {
       "time": "1:30pm - 2:45pm CDT",
@@ -181,7 +201,8 @@
       "contributors": "Ph.D. AliciaMakaye, George Makaye, Albert Marquez, Ieshea Hollins",
       "location": "Texas 5-6",
       "session_id": "sess212",
-      "room_id": "room107"
+      "room_id": "room107",
+      "description": "The Entrepreneurship in Computing panel is moderated by Alicia Makaye, Ph.D., Chief Operating Officer of GXA, with the following panelists: George Makaye, Chief Executive Officer, GXA, Albert Marquez, Chief Operations Officer, 1 US Construction, and Ieshea Hollins, Founder and CEO, Direnzic Technology Consulting Group, LLC. The companies represented on the panel have been in business for over 20 years, in some cases. The panelists will discuss factors to consider when starting a company and strategies for maintaining the company in the long-term. The panelists exemplify excellence, innovation, and leadership at the intersection of computing and entrepreneurship. These leaders have turned challenges into opportunities, proving that entrepreneurship can powerfully shape the tech landscape."
     },
     {
       "time": "1:30pm - 2:45pm CDT",
@@ -190,7 +211,8 @@
       "contributors": "",
       "location": "San Antonio 4-6",
       "session_id": "sess200",
-      "room_id": "room103"
+      "room_id": "room103",
+      "description": ""
     },
     {
       "time": "1:30pm - 1:45pm CDT",
@@ -199,7 +221,8 @@
       "contributors": "Aydin Ayanzadeh",
       "location": "Texas 3-4",
       "session_id": "sess188",
-      "room_id": "room106"
+      "room_id": "room106",
+      "description": "Safe navigation poses a significant challenge for blind and low-vision (BLV) individuals. Existing solutions often rely on Indoor Positioning Systems (IPS), which are not available in many environments. In this research, we propose a novel navigation assistance system that integrates macro and micro-navigation for goal-based navigation with the power of multi-modal foundation models. This system can assist BLV individuals in navigating dynamic indoor areas. To ensure safe navigation, we integrate a real-time open-world object detection model, YOLO-World, as an auxiliary model alongside a Large Language Model (LLM) for more robust obstacle detection and hazard assessment. To provide macro navigation, our system uses LLM-based floor plan analysis to convert layouts into navigable graph representations while generating contextual rules and trajectories. Our system combines high-level route generation with low-level navigation to provide more efficient and precise guidance in different indoor areas. To increase rerouting capabilities for user reorientation, we integrate image-based localization through image feature matching with the help of Vision Language Models (VLMs) to detect each scene in an indoor area. Although comprehensive experimental results are still pending, preliminary trials demonstrate significant improvements in navigation efficiency and user independence."
     },
     {
       "time": "1:30pm - 2:30pm CDT",
@@ -208,7 +231,8 @@
       "contributors": "Manuel Manuel A. Pérez Quiñones, Karla Badillo-Urquiola, Brianna Posadas",
       "location": "Texas 1-2",
       "session_id": "sess192",
-      "room_id": "room105"
+      "room_id": "room105",
+      "description": "Due to a lack of representation, Latinas are often grouped under Women of Color, yet the diversity within the Latina community makes this a very diverse group. That diversity gets lost when grouped with other women of color. In this panel, we will focus on the experiences of Latinas in computing. Many Latinas stay quiet when confronted with uncomfortable situations, a common response within systems that often silence marginalized voices. In a world that professes inclusivity yet resists dismantling systemic barriers, how do Latinas navigate and challenge the inherent contradictions to assert their value and thrive? How do Latinas find the strength to stand alone, to fight even harder, when the support of their allies prove to be merely performative? These challenges intensify when you are a young professional and also one of the only Latinas. This panel will bring together accomplished Latina leaders to have a conversation on career advancement and self-advocacy. Panelists will share their personal career journeys and insights into navigating barriers and challenges as well as strategies, tools, and resources for building a network of mentors, making informed career choices, and advancing their careers."
     },
     {
       "time": "1:45pm - 2:00pm CDT",
@@ -217,7 +241,8 @@
       "contributors": "Josh Tahimic",
       "location": "Texas 3-4",
       "session_id": "sess189",
-      "room_id": "room106"
+      "room_id": "room106",
+      "description": "“Trust but verify,” a quote we have all heard before. This is something that should not be applied to cybersecurity. “Never Trust, Always Verify,” (John Kindervag) is the cybersecurity focused slogan. Never Trust your user, no matter who they are, and Always Verify who they are and what they are doing on the system. In a world of sophisticated attacks, remote workers and companies distributed across the world, the attack surface has never been larger for these attackers. Perimeter defense, using firewalls, VPNs, and DMZs is no longer enough to stave off attackers because once they penetrate the hard shell, the inside of the network is soft with no defenses. It becomes easy to move around the network and even easier to extract delicate information. Zero Trust Architecture has never been more important, ensuring the inside of a network is just as secure as the outside. Principles such as least privilege, continuous monitoring, MFA and network segmentation all play a critical role in creating layered defenses or defense in depth. This makes it much more difficult for an attacker to gain access to a system. This lightning talk will explore Zero Trust Architecture and some of its key components."
     },
     {
       "time": "2:00pm - 2:15pm CDT",
@@ -226,7 +251,8 @@
       "contributors": "Sakshi Dubey",
       "location": "Texas 3-4",
       "session_id": "sess190",
-      "room_id": "room106"
+      "room_id": "room106",
+      "description": "Robots are no longer just machines confined to factory floors—they are becoming smarter, more autonomous, and deeply integrated into our daily lives. From self-driving cars and warehouse automation to robotic surgeons and AI-powered assistants, robotics and artificial intelligence (AI) are transforming industries at an unprecedented pace. But what does this mean for the future of work, innovation, and human-robot collaboration? This lightning talk will explore how advancements in AI, machine learning, and robotics are creating new opportunities while also presenting ethical and technical challenges. We will discuss: The latest trends in intelligent robotics, including autonomous systems, collaborative robots (cobots), and AI-driven automation. How robotics is shaping industries such as healthcare, manufacturing, logistics, and space exploration. The role of human-robot collaboration—Will robots replace humans, or will they enhance human capabilities? Challenges in AI-powered robotics, including bias in machine learning, ethical concerns, and the need for better regulation. Attendees will gain insights into cutting-edge innovations in robotics and understand the critical skills needed to thrive in this evolving field. Whether you are a student, researcher, or tech professional, this session will provide valuable knowledge about how AI and robotics will shape the future—and how you can be part of it."
     },
     {
       "time": "3:00pm - 4:00pm CDT",
@@ -235,7 +261,8 @@
       "contributors": "Les Sessoms, Corina Hernandez, Lee Ann Roberts",
       "location": "Texas 1-2",
       "session_id": "sess182",
-      "room_id": "room105"
+      "room_id": "room105",
+      "description": "As higher education continues to evolve, sustaining and advancing broadening participation efforts requires innovative and adaptable approaches. This interactive session will provide participants with actionable strategies to address challenges and ensure long-term commitment to expanding access and inclusion. Through expert-led discussions, peer learning, and insights from institutions like Princeton University, Cornell University, and University of Washington (UW), attendees will explore how AI tools can support students' academic success, foster cross-institutional collaboration, and secure innovative funding for sustained impact. Participants will also examine strategies for reframing broadening participation messaging to gain institutional buy-in. By the end of the session, attendees will leave with practical tools, a shared sense of accountability, and concrete strategies they can implement within their own institutions to drive lasting change."
     },
     {
       "time": "3:00pm - 4:00pm CDT",
@@ -244,7 +271,8 @@
       "contributors": "Lo Li",
       "location": "Texas 3-4",
       "session_id": "sess193",
-      "room_id": "room106"
+      "room_id": "room106",
+      "description": "Imagine it’s 100 years ago. It’s 1924—there’s no WiFi, no smartphones, the only ‘cloud’ you think about is the one in the sky. Fast forward to 2024 and the cloud is powering data, analytics, scientific testing and statistical modeling to provide financial access for a range of customers, including those traditionally left behind by the banking industry. In this session, Lo Li, Managing Vice President in Capital One’s Retail Bank, will cover what technology transformation is making it possible to reimagine banking—and what it takes to build technology that truly meets people where they are, responsibly and at scale. Capital One is reimagining banking by offering a personalized experience that enables customers to bank on their terms – digitally or in person, at a Branch, Cafê, ATM, convenience stores or through its top-rated mobile app. She’ll take you behind the scenes of leading innovation within a large-scale organization, sharing how her teams build products and services that prioritize financial health—like eliminating overdraft fees and launching tools that help people safely spend, save, and plan. From reimagining financial services delivered through cafés and community partnerships, to introducing students to coding through programs like Capital One Coders, this session provides a grounded look at building technology that serves real people. These purpose-driven innovations are made possible by Capital One’s technology transformation journey. Over the last decade, Capital One completed its shift to the cloud, moving to AWS and re-architecting its data environment. Using modern technologies—including real-time data, machine learning, and a cloud-native, open source-first, API-driven architecture—Capital One has dramatically advanced its ability to build trusted, scalable, and inclusive financial experiences. It has earned hundreds of patents in AI and become one of the world’s great software engineering companies. Attendees will walk away with: Strategies for launching purpose-driven initiatives at scale Tactics for aligning mission with cross-functional product and engineering teams Behaviors that foster inclusivity , accountability, and trust in large-scale organizations Through real-world stories and interactive reflection, Lo invites attendees to explore their own role in building meaningful technology-driven products and services—with purpose at the center."
     },
     {
       "time": "3:00pm - 4:00pm CDT",
@@ -253,7 +281,8 @@
       "contributors": "Lynn Dohm",
       "location": "Texas 5-6",
       "session_id": "sess167",
-      "room_id": "room107"
+      "room_id": "room107",
+      "description": "While cybersecurity career pathways are abundant, their structure is often convoluted. As the workforce continues facing critical talent shortages, Women in CyberSecurity (WiCyS) decodes the entry point and career advancement through student chapters, professional affiliates, programs, and more. This session will cover the demands on the workforce, the need to develop career professionals further, actionable steps to map out career advancement, and how to amplify the message through the lifecycle of commitment to cybersecurity workforce initiatives. In this session, attendees will learn about the research WiCyS has produced to support, sustain and scale the organization and the community it serves through a data-driven lens."
     },
     {
       "time": "3:00pm - 4:00pm CDT",
@@ -262,7 +291,8 @@
       "contributors": "Telle Whitney, Shanna-Shaye Forbes, Mayowa Awe, Eric Marin",
       "location": "San Antonio 1-3",
       "session_id": "sess166",
-      "room_id": "room102"
+      "room_id": "room102",
+      "description": "Technology organizations have the opportunity to create innovative and creative cultures where ideas are surfaced, discussed, and adopted, and where engineers contribute their brilliance in ways that are heard. Telle Whitney, the co-founder of the Grace Hopper Conference (GHC), will talk about tech cultures and the possibilities of bringing both innovation and inclusivity to these cultures based on her recently published book Rebooting Tech Culture, which included 50 interviews with tech executives and engineers. During the panel, we will hear from several engineers and product managers who share their own experience at the tech companies where they have worked. We will discuss the impact of the six Cs on their technical journey."
     },
     {
       "time": "3:00pm - 4:00pm CDT",
@@ -271,7 +301,8 @@
       "contributors": "Dr. Gabriela Gongora-Svartzman, Lino Coria Mendoza, Obianuju Okafor",
       "location": "Dallas 5-7",
       "session_id": "sess205",
-      "room_id": "room104"
+      "room_id": "room104",
+      "description": "The fast advancement of Generative AI (GenAI) tools has created new opportunities and challenges in education. While some worry about over-reliance on GenAI, others see its potential in bridging learning gaps, boosting student confidence, and fostering deeper engagement. This panel explores the impact of GenAI as an intervention in classrooms—particularly how it supports students with diverse backgrounds and learning needs. Panelists will discuss: - Does GenAI improve student comprehension and confidence compared to traditional teaching? - Can GenAI reduce cognitive load, allowing students to focus on critical thinking rather than mechanics? - How do we balance AI-assisted learning while ensuring students develop deep skills and avoid over-reliance? The discussion will include real-world examples of GenAI interventions, insights into student outcomes, and practical strategies for integrating AI without sacrificing core learning principles."
     },
     {
       "time": "3:00pm - 4:15pm CDT",
@@ -280,7 +311,8 @@
       "contributors": "Timothy M.Pinkston, Beyza Zeynep Ucpinar, Tara Renduchintala",
       "location": "San Antonio 4-6",
       "session_id": "sess199",
-      "room_id": "room103"
+      "room_id": "room103",
+      "description": "Superconductive electronics harnesses the unique property of zero electrical resistance at cryogenic temperatures to enable high-performance computing based on novel circuits with exceptional speed, energy efficiency, and sensitivity. Unlike traditional semiconductor devices, superconductor-based circuits can operate at extremely high frequencies with minimal power loss, making them ideal for next-generation computing and sensing technologies. This presentation will introduce the fundamental principles of superconductivity, including the Josephson effect and flux quantization, which form the basis of superconductor-based logic and memory devices. Recent advancements in superconductive electronics have also paved the way for critical components in quantum technologies, such as superconducting qubits, quantum amplifiers, and ultra-sensitive detectors. The integration of superconductive electronics with quantum systems offers promising pathways toward scalable quantum computing, high-precision measurements, and energy-efficient high-performance computing."
     },
     {
       "time": "4:30pm - 5:45pm CDT",
@@ -289,7 +321,8 @@
       "contributors": "",
       "location": "Texas 3-4",
       "session_id": "sess121",
-      "room_id": "room106"
+      "room_id": "room106",
+      "description": ""
     },
     {
       "time": "4:30pm - 5:45pm CDT",
@@ -298,7 +331,8 @@
       "contributors": "",
       "location": "Texas 5-6",
       "session_id": "sess122",
-      "room_id": "room107"
+      "room_id": "room107",
+      "description": ""
     },
     {
       "time": "4:30pm - 5:00pm CDT",
@@ -307,7 +341,8 @@
       "contributors": "",
       "location": "Texas Center Prefunction",
       "session_id": "sess215",
-      "room_id": "room131"
+      "room_id": "room131",
+      "description": ""
     },
     {
       "time": "5:00pm - 6:30pm CDT",
@@ -316,7 +351,8 @@
       "contributors": "",
       "location": "San Antonio 4-6",
       "session_id": "sess123",
-      "room_id": "room103"
+      "room_id": "room103",
+      "description": ""
     },
     {
       "time": "5:30pm - 7:30pm CDT",
@@ -325,7 +361,8 @@
       "contributors": "",
       "location": "Texas 1-2",
       "session_id": "sess194",
-      "room_id": "room105"
+      "room_id": "room105",
+      "description": ""
     },
     {
       "time": "8:00am - 9:00am CDT",
@@ -334,7 +371,8 @@
       "contributors": "",
       "location": "San Antonio 4-6",
       "session_id": "sess151",
-      "room_id": "room103"
+      "room_id": "room103",
+      "description": ""
     },
     {
       "time": "9:00am - 10:30am CDT",
@@ -343,7 +381,8 @@
       "contributors": "Rubén Lozano Aguilera",
       "location": "Texas Ballroom",
       "session_id": "sess130",
-      "room_id": "room108"
+      "room_id": "room108",
+      "description": "AI is moving faster than our ability to govern it, explain it, or fully understand it. We’re optimizing for technical excellence—faster, cheaper, more precise—without first agreeing on what this technology is for, or who it truly serves. What if we stopped thinking of AI as just code and compute, and started seeing it as culture? Not just a system to engineer, but a reflection of values, power, and intent. In this keynote, I’ll share lessons from building products used by billions at Google and Amazon, and now shaping truly open-source AI at Ai2 (Allen Institute for Artificial Intelligence). I’ll explore how open systems, ethical defaults, and community-led governance can help close the wisdom gap—alongside what it felt like to enter this field—part luck, part relentless effort—as a queer, first-gen immigrant in tech. Whether you’re deep in AI or just figuring out where you fit, this is an invitation to build differently—and to build something that includes you."
     },
     {
       "time": "10:30am - 12:00pm CDT",
@@ -352,7 +391,8 @@
       "contributors": "",
       "location": "Longhorn Hall D",
       "session_id": "sess131",
-      "room_id": "room109"
+      "room_id": "room109",
+      "description": ""
     },
     {
       "time": "10:45am - 11:45am CDT",
@@ -361,16 +401,18 @@
       "contributors": "Dale Marie Wilson, Marlon Mejias, Yolanda Rankin, Cheryl Swanier, Felesia Stukes",
       "location": "Texas 1-2",
       "session_id": "sess155",
-      "room_id": "room105"
+      "room_id": "room105",
+      "description": "Given the underrepresentation of Black individuals in computing, this Birds-of-a-Feather (BOF) session at Tapia aims to foster a supportive and inclusive community for members of the Black computing community. Last year, this session was a tremendous success. It brought together members of the community from students to faculty, industry and allies to collectively celebrate achievements as well as discuss issues faced by Black individuals in the field that impact diversity, equity, and inclusion. We aim to expand on this success by including presenters from multiple institutions.Our goals which guide our topics include: 1) Creating a supportive community through fostering increased sense of belonging and camaraderie among Black computer scientists including students (undergrad and grad), faculty, industry partners and allies, through witnessing a larger representation of Black computer scientists; 2) Addressing systemic challenges through open-ended discussions driven by the audience and exploring strategies to address systemic barriers and biases in computing; 3) Inspiring the next generation by acknowledging present Black CS trailblazers 4) Increasing engagement and productivity by acknowledging the accomplishments of the audience and 5) Providing support through recognition of supportive Black CS communities : e.g. IAAMCS, AAPHDCS, blackcomputeHER."
     },
     {
       "time": "10:45am - 12:00pm CDT",
       "type": "Workshop",
       "session_presentation": "Demystifying Secure Quantum Communication: A Hands-on Workshop for All",
       "contributors": "Mo Hasanovic, Jason Pollack, Jae Oh",
-      "location": "San Antonio 1-3",
+      "location": "Texas 5-6",
       "session_id": "sess170",
-      "room_id": "room102"
+      "room_id": "room107",
+      "description": "Quantum technologies are revolutionizing secure communication, sensing, and computing, with quantum cryptography emerging as a critical tool for safeguarding data against quantum-enabled cyber threats. This hands-on workshop introduces the fundamentals of quantum cryptography, the role of photonics, and the practical implementation of a quantum-inspired communication link using the BB84 protocol. Designed for professionals with limited prior exposure to quantum mechanics, the session will provide an accessible yet immersive experience into how quantum principles can be applied to enhance cryptographic security. Participants will begin with an overview of quantum technologies, focusing on their industrial and scientific impact. We will explore the fundamentals of quantum cryptography, including quantum key distribution (QKD), photonic principles, and the role of polarizers and waveplates in securing communication. The hands-on segment will guide attendees through setting up an optical communication link, aligning optical components, and demonstrating a classical version of quantum-encrypted communication. Through interactive exercises, live demonstrations, and guided hands-on activities, attendees will develop an intuitive understanding of how quantum cryptography works, its benefits, and current challenges. No advanced physics background is required—just curiosity and an interest in emerging security technologies. By the end of the workshop, participants will be able to explain quantum cryptographic concepts, set up and align optical components, and implement a BB84-inspired encryption link, gaining both theoretical insights and practical skills relevant to quantum-secure communications."
     },
     {
       "time": "10:45am - 12:00pm CDT",
@@ -379,7 +421,8 @@
       "contributors": "Lino Coria Mendoza, David Paquette, Keith Bagley, Jonathan Mwaura, Alvaro Monge",
       "location": "San Antonio 4-6",
       "session_id": "sess168",
-      "room_id": "room103"
+      "room_id": "room103",
+      "description": "This interactive workshop explores how students can use large language models (LLMs) to enhance creativity and critical thinking while maintaining their unique perspectives. Participants will engage in hands-on activities to understand the ethical and responsible use of LLMs in problem-solving. The main activity involves designing an AI-powered resume evaluator, with students divided into three groups: • Group 1: Human Work + AI Assistance – Brainstorm ideas independently, then refine them using LLM feedback. • Group 2: Human Work Only – Develop the solution without AI, relying on creativity and critical thinking. • Group 3: Direct AI Prompting – Use LLMs to generate solutions through carefully crafted prompts. Each group will present and compare their results, reflecting on AI’s role in ideation, the balance between automation and originality, and ethical considerations. This comparative approach helps students assess the strengths and limitations of AI while reinforcing the importance of human judgment. The session concludes with a discussion on how to use LLMs as collaborative tools rather than decision-makers, ensuring students leverage AI effectively without compromising individuality. By the end of the workshop, participants will have a foundational understanding of LLMs as assistive tools in professional and creative settings, equipping them with skills to integrate AI ethically and effectively."
     },
     {
       "time": "10:45am - 12:00pm CDT",
@@ -388,16 +431,18 @@
       "contributors": "Rubén Lozano Aguilera, William Hill, Laura Silva H, Dena Metili Mwangi",
       "location": "Dallas 5-7",
       "session_id": "sess203",
-      "room_id": "room104"
+      "room_id": "room104",
+      "description": "AI is moving fast—and it’s no longer just a research topic or a tool for specialists. It’s becoming part of how real work gets done. This panel will focus on practical ways professionals are embedding AI into daily workflows to improve productivity, speed up analysis, and support better decisions. We’ll dig into how to identify meaningful integration points, pick tools that fit your work (from LLMs to agentic systems and automation platforms), and build the skills needed to keep pace. Panelists will share concrete examples from product, engineering, and research roles—highlighting what’s working, what to avoid, and how using AI well is quickly becoming a competitive edge."
     },
     {
       "time": "10:45am - 12:00pm CDT",
       "type": "Workshop",
       "session_presentation": "Navigating the Application Journey - From School Admissions to Job Market Success",
       "contributors": "Cecilia Aragon, Damian Rousson, Daricia Wilkinson, Betsy Di Salvo",
-      "location": "Texas 5-6",
+      "location": "San Antonio 1-3",
       "session_id": "sess169",
-      "room_id": "room107"
+      "room_id": "room102",
+      "description": "This workshop is designed to provide student attendees with the opportunity to learn about and discuss career options and choices as they relate to research positions in academia, industry, and government labs. Through the participation of three experienced panelists, participants can gain a better understanding about graduate school, internships, and the different places of work. The panelists will discuss applications, environment, and career paths for all of these stages. Participants can engage in direct conversations with panelists to address their individual goals and needs."
     },
     {
       "time": "10:45am - 11:45am CDT",
@@ -406,7 +451,8 @@
       "contributors": "Kayla Brown",
       "location": "Texas 3-4",
       "session_id": "sess171",
-      "room_id": "room106"
+      "room_id": "room106",
+      "description": "How disability is defined and represented impacts societal attitudes, policies, and practices—including in computing. This session explores dominant disability narratives, the models that shape them, and the significance of Disability Justice. We will examine two fundamental models of disability: the medical model, which views disability as an individual problem to be fixed, and the social model, which frames disability as a product of societal barriers. These perspectives influence personal biases, institutional policies, and the inclusion of disabled people in computing and beyond. The session will also address ableism, or discrimination against disabled people, and how it manifests in cultural narratives. One pervasive example is “inspiration porn”, a term coined by activist Stella Young, which objectifies disabled people for non-disabled audiences. Finally, we will discuss Disability Justice, which goes beyond legal rights to address systemic oppression and advocate for truly inclusive, mixed-ability spaces. Understanding disability through this lens is essential for designing accessible technologies, fostering inclusive learning environments, and challenging ableist assumptions in computing. This session welcomes all who want to deepen their understanding of disability representation, recognize ableism, and become better students, educators, professionals, and allies."
     },
     {
       "time": "12:00pm - 1:15pm CDT",
@@ -415,7 +461,8 @@
       "contributors": "",
       "location": "Dallas 5-7",
       "session_id": "sess132",
-      "room_id": "room104"
+      "room_id": "room104",
+      "description": ""
     },
     {
       "time": "12:00pm - 1:15pm CDT",
@@ -424,7 +471,8 @@
       "contributors": "",
       "location": "Texas Ballroom",
       "session_id": "sess133",
-      "room_id": "room108"
+      "room_id": "room108",
+      "description": ""
     },
     {
       "time": "1:15pm - 5:00pm CDT",
@@ -433,7 +481,8 @@
       "contributors": "",
       "location": "Longhorn Hall D",
       "session_id": "sess213",
-      "room_id": "room109"
+      "room_id": "room109",
+      "description": ""
     },
     {
       "time": "1:30pm - 2:30pm CDT",
@@ -442,7 +491,8 @@
       "contributors": "Mike Hess",
       "location": "Texas 1-2",
       "session_id": "sess154",
-      "room_id": "room105"
+      "room_id": "room105",
+      "description": "The computing industry is rapidly evolving, yet professionals with disabilities remain one of the most underrepresented groups in tech. Despite advances in AI, accessibility tools, and inclusive hiring initiatives, professionals with disabilities continue to face barriers to entry and career progression. So how do we close this gap – and how can disabled students, faculty, researchers, and industry leaders work together to drive change? This Birds of a Feather (BoF) session will be a collaborative discussion on creating equitable career pathways in computing through apprenticeships, mentorship, research-driven inclusion efforts, and industry collaboration. Who Should Attend & Why It Matters · Disabled Undergraduate & Graduate Students: Learn how to leverage apprenticeships, career networks, and mentorship to launch careers in tech – without accumulating more student debt. · Faculty & Researchers: Explore how industry-academia partnerships can provide real-world accessibility and inclusion solutions, leading to better student retention, engagement, and success. · Industry Professionals: Discover how companies can engage with BIT’s nationally recognized apprenticeship model to build diverse, skilled talent pipelines in computing fields. Key Discussion Topics: · For Disabled Students & Early-Career Professionals: How to access free training, certifications, and industry connections to launch careers in computing. · For Faculty & Researchers: How integrating workforce development programs, accessibility, and industry collaboration into computing education can bridge the employment gap. · For Employers & Hiring Managers: How BIT’s apprenticeship model and accessibility initiatives are creating job-ready, diverse candidates in high-demand fields. BIT’s Apprenticeship & Career Pathways Model BIT Academy provides a hands-on, real-world training approach to prepare professionals with disabilities for competitive careers in computing. Participants gain the education and skills needed to pursue industry-recognized certifications and direct employer connections in: · Salesforce Administration · Digital Accessibility (for CPACC certification) · Front-End Development (with a focus on accessibility) · Project Management Why It Matters for Computing’s Future As technology transforms the workforce, accessibility must be embedded in the process – or professionals with disabilities will remain underrepresented in the next generation of computing. BIT ensures that professionals with disabilities are not just included in this shift – they are leading it. Attendees will leave with actionable strategies for creating accessible, inclusive pathways in tech – whether as disabled students preparing for their careers, faculty shaping computing education, or industry leaders hiring the next generation of innovators."
     },
     {
       "time": "1:30pm - 2:45pm CDT",
@@ -451,7 +501,8 @@
       "contributors": "Rima Asmar Awad, Mathew Singleton",
       "location": "Dallas 5-7",
       "session_id": "sess173",
-      "room_id": "room104"
+      "room_id": "room104",
+      "description": "In this interactive workshop, participants will explore real-world cybersecurity threats to industrial cooling and HVAC systems by simulating an attack on a Raspberry Pi running OpenPLC. Working in pairs and following a step-by-step worksheet, they’ll create ladder logic, analyze Modbus TCP traffic for vulnerabilities, and carry out a mock attack to disrupt fan control. Afterwards, they’ll learn to implement defenses like firewall rules, encryption, and anomaly detection. Alongside hands-on labs, guided discussions, and a final Q&A, attendees will gain practical skills and insights for safeguarding critical infrastructure."
     },
     {
       "time": "1:30pm - 2:45pm CDT",
@@ -460,7 +511,8 @@
       "contributors": "Valerie Taylor, Brianna Blaser, Jamika Burge, Ann Gates, Timika Oridota, Susan Rodger, Joshua Childs, Jamie Payton",
       "location": "San Antonio 1-3",
       "session_id": "sess172",
-      "room_id": "room102"
+      "room_id": "room102",
+      "description": "This workshop provides an opportunity for representatives from the NSF-funded Broadening Participation in Computing Alliances and other organizations to share their effective programs about broadening engagement in computing. The workshop will begin with representatives sharing one effective program from each of the following NSF BPC Alliances and other organizations: AccessComputing, blackcomputeHER.org, CAHSI, CMD-IT/LEAP, CRA-W, ECEP, and STARS. The attendees will have an opportunity to break up into nine groups, with each group having an opportunity to learn the details about the effective program such that information can be taken back to the institution for implementation or partnerships can be established. Participants will have an opportunity to learn about three effective programs."
     },
     {
       "time": "1:30pm - 2:45pm CDT",
@@ -469,7 +521,8 @@
       "contributors": "Jaime Moreno, Maged Elaasar, Taghrid Samok, Gonzalo Ramos",
       "location": "San Antonio 4-6",
       "session_id": "sess180",
-      "room_id": "room103"
+      "room_id": "room103",
+      "description": "This workshop is designed to provide attendees from industry and government labs with the opportunity to develop their professional and career skills. It can also benefit those in academia, especially those considering a career move to industry or a government lab. Through discussion with three experienced panelists and a moderator, participants will have an opportunity to gain a better understanding of how to thrive in a research career and advance one’s research and/or management career in industry and government labs. Participants will hear from the panelists about their careers, to set the context, and then engage in direct conversations with panelists tailored to their individual goals and needs."
     },
     {
       "time": "1:30pm - 2:30pm CDT",
@@ -478,7 +531,8 @@
       "contributors": "Jazmin Ewers, Kayla Arias, Nicole Loncke, Ayshia Gibb, Jasmine Pegrem",
       "location": "Texas 3-4",
       "session_id": "sess209",
-      "room_id": "room106"
+      "room_id": "room106",
+      "description": "Level up your resilience: insights from women who've mastered tech's ups and downs. This panel features three women with a wealth of knowledge expanding various tech roles, including a Site Reliability Engineer with seven years of experience, a Senior Product Manager with more than ten years of experience and a Senior Program Manager with over two decades in the field. Coming from the perspective of individual contributors and senior management. Panelists will discuss: the meaning of resilience amidst setbacks, strategies to rekindle professional drive, and the evolution of daily resilience practices. The setbacks range from navigating unfulfilling projects, missed opportunities and taking time off to focus on their family. Also we will examine the critical role of supportive networks and how to cultivate them. Practical advice will be shared for those struggling to build resilience, including how to support struggling colleagues and the importance of taking necessary breaks."
     },
     {
       "time": "1:30pm - 1:45pm CDT",
@@ -487,7 +541,8 @@
       "contributors": "Sailesh Adhikari",
       "location": "Texas 5-6",
       "session_id": "sess186",
-      "room_id": "room107"
+      "room_id": "room107",
+      "description": "The increasing danger of wildfires to human settlements and natural ecosystems emphasizes the critical need for sophisticated detection systems. This study explores the use of deep learning architectures called Vision Transformer (ViT) models for satellite imagery-based wildfire identification. In comparison to conventional Convolutional Neural Networks (CNNs), ViT models are trained to detect early indications of wildfires with better accuracy and generalization using publicly accessible NASA satellite image datasets. The project involves setting up the environment, preparing and preprocessing a wildfire dataset, and training a ViT model using PyTorch Library. The trained model is evaluated on test data to assess its accuracy and reliability. Additionally, attention maps are visualized to interpret the model’s decision-making process. Results demonstrate the potential of ViT models in capturing complex patterns in satellite images, offering enhanced wildfire detection capabilities as compared to other deep learning algorithms."
     },
     {
       "time": "1:45pm - 2:00pm CDT",
@@ -496,7 +551,8 @@
       "contributors": "Oluwatobi Lasisi",
       "location": "Texas 5-6",
       "session_id": "sess187",
-      "room_id": "room107"
+      "room_id": "room107",
+      "description": "From Academia to Industry: Building a Career at the Intersection of Research and Design Transitioning from academia to industry can seem quite daunting. In this talk, I will share my journey from getting my PhD in Computer Science to becoming a Design Researcher at IBM Quantum. Drawing from my academic research in human-computer interaction (HCI) and my industry experience in quantum computing, I will offer practical strategies for students and early-career professionals navigating similar transitions. This talk will begin by highlighting the transferable skills I gained during my PhD, such as conducting user studies, synthesizing data, and communicating complex ideas—skills that became my foundation at IBM. I will then discuss the challenges of transitioning to industry, including overcoming imposter syndrome and adapting to fast-paced environments. Central to the session are five key lessons for success – building a T-shaped skill set that balances depth and breadth, reframing academic research as compelling storytelling for portfolios and interviews, leveraging professional organizations and conferences for networking, embracing a beginner’s mindset to thrive in unfamiliar fields, and betting on yourself by applying for roles even when you don’t meet every requirement. Through personal experiences and practical advice, this talk will empower attendees to view their academic training as a strength, not a limitation. Whether you’re a student exploring career options or a professional seeking to pivot into UX research or emerging tech, this session will equip you with the tools and confidence to build a meaningful career at the intersection of research and design."
     },
     {
       "time": "3:00pm - 4:00pm CDT",
@@ -505,7 +561,8 @@
       "contributors": "Karla Badillo-Urquiola, Patricia Ordóñez, Alvaro Monge, Brianna Posadas, Manuel A.Pérez Quiñones, Oscar Veliz",
       "location": "Texas 3-4",
       "session_id": "sess159",
-      "room_id": "room106"
+      "room_id": "room106",
+      "description": "The Hispanics in Computing group was founded a few months before the Tapia 2009 Conference and has met at this annual conference ever since. The gathering allows many of us to meet face-to-face and discuss issues facing Hispanics. These past few years have increased the need for the community to come together to help students through their programs, professionals through their early career years, and more established professionals to make and achieve new goals. The goal for this year’s BoF gathering is to explore how to maintain a supportive community in the face of the challenges that equity and inclusion is facing in this country. The impact of these gatherings has been tremendous. Several members of the community that attended our BoF as young graduate students are now in tenure track positions or employed in research organizations. The group has a strong online presence (listserv, Facebook, LinkedIn, and website http://www.hispanicsincomputing.com/) and looks forward to this family reunion at the conference."
     },
     {
       "time": "3:00pm - 4:00pm CDT",
@@ -514,7 +571,8 @@
       "contributors": "Mira Kim",
       "location": "Texas 1-2",
       "session_id": "sess176",
-      "room_id": "room105"
+      "room_id": "room105",
+      "description": "CogniSphere tackles cognitive decline and social isolation in older adults through an AI-driven platform offering personalized cognitive exercises through Generative AI models. With elder-friendly interfaces, it provides cognitive exercises from memories provided by users' support network, leveraging AI services. Over 55 million people worldwide have dementia, and 10–15% of 10 million with Mild Cognitive Impairment (MCI) develop dementia annually. In the U.S., loneliness affects 1 in 3 adults, and lack of social support impacts 1 in 4—both increasing dementia risk by 49–60%. Our cost-effective dementia prevention platform enhances elderly well-being. We propose an AI-driven platform powered by AI services that uses personal memories, photos, and videos to deliver tailored cognitive exercises. A reinforcement learning (RL) feedback loop analyzes user progress and behavior, continuously refining exercises. This innovative approach aims to enhance cognitive resilience and slow the progression of cognitive decline. Various types of cognitive exercises that are proven to enhance cognitive health are personalized using data from users' support networks. Our multi-modal Generative AI framework integrates text, speech, and visual stimuli to sustain engagement across diverse exercise formats, while an RL-driven feedback loop continuously optimizes cognitive training based on user performance."
     },
     {
       "time": "3:00pm - 4:15pm CDT",
@@ -523,7 +581,8 @@
       "contributors": "Simone Smarr, Tiffanie Smith",
       "location": "San Antonio 1-3",
       "session_id": "sess174",
-      "room_id": "room102"
+      "room_id": "room102",
+      "description": "This workshop will engage participants in discussions and interactive activities around the topic of Generative AI and Culture. Participants will explore how generative AI can support culturally relevant and responsive computing education while addressing potential biases. Although the amount of work is still limited, culturally sustaining work has proven to be beneficial for learners within computing, and as this area of research gains traction, GenAI presents opportunities and challenges related to personalizing learning for students. This session will introduce participants—regardless of prior experience—to foundational concepts of culturally relevant pedagogy and generative AI. Through hands-on activities, attendees will critically analyze AI-generated content for bias, explore prompt engineering techniques to generate culturally responsive materials, and discuss ethical considerations. Relevant to all interested in computing education, including non-profits, faculty, and graduate students, participants will be left with strategies for identifying and mitigating bias in AI-generated content, as well as actionable steps to advocate for more culturally relevant computing education."
     },
     {
       "time": "3:00pm - 4:15pm CDT",
@@ -532,7 +591,8 @@
       "contributors": "David Wolber, Ashlesha Bhagat",
       "location": "San Antonio 4-6",
       "session_id": "sess177",
-      "room_id": "room103"
+      "room_id": "room103",
+      "description": "Generative AI is transforming the way applications are developed, reducing barriers to entry for developers from diverse backgrounds. This workshop presents three approachable methods for creating generative AI-powered applications, offering participants practical, hands-on experience in AI-driven software development. 1. Blocks Programming with Thunkable: Participants will utilize Thunkable’s OpenAI blocks to build no-code AI applications through a straightforward drag-and-drop interface. 2. Natural Language to Code with Cursor: Discover how generative AI tools can convert English descriptions into functional code. 3. Python Development with PeopleCode.ai: Leverage the PeopleCode.ai OpenAI library to simplify the integration of AI in Python applications, while maintaining flexibility for more advanced customizations. This workshop is designed for individuals of all technical levels, including those from non-traditional computing fields such as humanities and business. Drawing from our experience teaching coding and generative AI at the University of San Francisco, as well as from the development of tutorials at draganddropcode.com, attendees will gain a comprehensive understanding of AI application development. By the end of the session, participants will have acquired valuable skills to apply to their own projects. Let us work together to democratize AI development. Let’s democratize AI development!"
     },
     {
       "time": "3:00pm - 4:00pm CDT",
@@ -541,7 +601,8 @@
       "contributors": "Kevin Scroggins, Emmanuel Dorley",
       "location": "Texas 5-6",
       "session_id": "sess178",
-      "room_id": "room107"
+      "room_id": "room107",
+      "description": "AI agents are transforming industries by enabling autonomous decision-making in dynamic environments and we believe that the Tapia community stands to benefit from knowledge on how to build these systems. From chatbots and recommendation systems to negotiation agents, the ability to design and deploy intelligent agents is a crucial skill for AI practitioners. This session provides a practical guide on how to build AI agents, covering foundational concepts and real-world applications in creating smart decision making systems. We will explore the role of generative AI in enhancing agent decision-making and adaptability. Through interactive demonstrations, attendees will gain insights into how they can construct agents that can operate in uncertain environments. The session concludes with a discussion on challenges such as scalability, ethical considerations, and next steps to continue learning about this space."
     },
     {
       "time": "3:00pm - 4:15pm CDT",
@@ -550,7 +611,8 @@
       "contributors": "Brittany Brown",
       "location": "Dallas 5-7",
       "session_id": "sess175",
-      "room_id": "room104"
+      "room_id": "room104",
+      "description": "According to Harvey Coleman, how well you perform in your job has little impact on your overall success in your professional career. In his book Empowering Yourself: The Organizational Game Revealed, Coleman asserts that career success is determined by three key elements: Performance, Image, and Exposure (PIE). In this workshop, our career coach, Brittany J. Brown, ACC, will delve into the PIE Framework and provide practical strategies for enhancing your professional presence and growth. By effectively leveraging the PIE Framework, you will focus on building a strong leadership brand and image."
     },
     {
       "time": "4:00pm - 4:30pm CDT",
@@ -559,7 +621,8 @@
       "contributors": "",
       "location": "Texas Center Prefunction",
       "session_id": "sess120",
-      "room_id": "room131"
+      "room_id": "room131",
+      "description": ""
     },
     {
       "time": "4:30pm - 5:30pm CDT",
@@ -568,7 +631,8 @@
       "contributors": "Patricia Ordóñez, Kendra Walther, William Bares, Nery Chapetón-Lamas",
       "location": "Texas 1-2",
       "session_id": "sess160",
-      "room_id": "room105"
+      "room_id": "room105",
+      "description": "One of the most powerful ways to broaden participation in computing is to have diverse faculty and mentors who enable students to imagine themselves in computing careers and find career pathways that resonate with their varied cultural or personal values and life goals. While in graduate school, students might encounter the phrases \"research versus teaching\" and \"publish or perish.\" These phrases paint a picture of the academic jobs landscape as having only two destinations - a research job or a teaching job, with the primary pathway to either being a B.S. and then a Ph.D. in computer science. This simplistic picture can discourage or intimidate many students who might otherwise have considered faculty careers. We should likewise consider how the values and life goals of graduate students play a role in how they find (or do not find) their way to faculty positions to become these role models. Prior work has demonstrated the importance of how values influence choices on educational and career pathways. Some communities value work that serves or benefits the community over more individualistic efforts. Research in culturally-relevant computing has demonstrated the importance of helping students to view the field of computing and adjacent careers as being relevant to their cultural identities and providing ways to help solve problems that are relevant to their cultural communities. One common misconception is that colleges are divided into two mutually exclusive categories, \"research\" schools where faculty pursue external grant funding and publish papers in prestigious conferences and journals and \"teaching\" schools where faculty spend their time teaching and mentoring, with little or no opportunity for impactful research. This misconception is patently wrong (many research universities have faculty whose primary responsibility is teaching and faculty at small liberal arts colleges often have careers featuring both teaching and research). This is harmful, since it draws attention away from more liberating aspects of academia, including the freedom to design classes and research projects. Additionally, we should highlight the many different pathways that graduate students can follow to faculty careers, not just the “traditional” route of an undergraduate degree followed by a doctoral degree in computer science. In reality, there are faculty whose first degrees were not in a computing-related field, those who have masters degrees, faculty who have previously worked in industry, or had families before graduate school, had career interruptions due to layoffs, or other non-traditional pathways. This BoF invites faculty members who wish to share their unique pathways to different types of faculty jobs with students (or others) considering careers in academia. During this one-hour BoF, facilitators will take turns asking guiding questions such as how did your values and life goals influence your path, how was your path different, and advice to share. Through discussion and audience questions we will together paint a more flexible, realistic and welcoming picture of the many pathways to different types of academic careers that resonate with our cultural or personal values and life goals."
     },
     {
       "time": "4:30pm - 5:30pm CDT",
@@ -577,7 +641,8 @@
       "contributors": "Aarohi Tripathi",
       "location": "Texas 3-4",
       "session_id": "sess179",
-      "room_id": "room106"
+      "room_id": "room106",
+      "description": "Artificial intelligence (AI) is revolutionizing the healthcare industry by enhancing the efficiency and accuracy of diagnostics, treatment planning, and patient care. This talk explores recent AI-powered innovations in healthcare, including machine learning algorithms for early disease detection, natural language processing for patient data management, and robotics for precision surgery. I will talk about the integration of AI in real world healthcare applications and examine how AI enhances diagnostic accuracy, enables personalized medicine, improves operational efficiency, and contributes to better patient outcomes. In this session, I will also address ethical considerations, data privacy concerns, and the future potential of AI in transforming healthcare as AI has the potential to significantly advance medical research and practice, ultimately leading to a more effective and equitable healthcare system."
     },
     {
       "time": "4:30pm - 5:45pm CDT",
@@ -586,7 +651,8 @@
       "contributors": "Srisuma Movva",
       "location": "San Antonio 1-3",
       "session_id": "sess181",
-      "room_id": "room102"
+      "room_id": "room102",
+      "description": " Large language models (LLMs) are revolutionizing industries, from healthcare and education to entertainment and finance, by enabling unprecedented levels of automation, creativity, and efficiency. However, these powerful tools often carry hidden biases that can perpetuate inequality, reinforce stereotypes, and harm marginalized communities. For instance, studies have shown that LLMs can generate outputs that reflect gender, racial, and cultural biases present in their training data, leading to real-world consequences such as discriminatory hiring algorithms, biased legal decision-making tools, and harmful content recommendations. In this interactive session, \"Breaking Bias: Empowering Women to Build Fairer AI Systems,\" we’ll dive deep into the challenges and opportunities of creating ethical and inclusive AI. We’ll begin by exploring the tools and techniques used to detect and reduce biases in LLM training data, such as fairness metrics, adversarial debiasing, and diverse dataset curation. Through real-world case studies, we’ll examine the societal impacts of biased AI outputs, including examples like [specific case studies, e.g., \"Amazon’s biased hiring algorithm\" or \"GPT-3 generating harmful stereotypes\"]. These examples will highlight the urgent need for fairness-aware AI systems and the role of technologists in addressing these issues. The session will also feature a hands-on workshop where participants will collaborate to design strategies for creating fairness-aware AI models. Using open-source tools and frameworks, we’ll explore practical approaches to mitigating bias, such as inclusive data collection, algorithmic transparency, and human-in-the-loop systems. Attendees will leave with actionable insights and resources to apply in their own work, whether they’re building AI systems, leading teams, or advocating for ethical AI practices.This session is designed for a diverse audience, from budding technologists to seasoned professionals, and will empower participants to take an active role in shaping the future of AI. By fostering a deeper understanding of bias in LLMs and equipping attendees with the tools to address it, we aim to inspire a new generation of AI practitioners who prioritize diversity, equity, and inclusion in their work. Together, we can build AI systems that reflect the values of the communities they serve and create a more equitable future for all."
     },
     {
       "time": "4:30pm - 5:30pm CDT",
@@ -595,7 +661,8 @@
       "contributors": "Jia Lu",
       "location": "Texas 5-6",
       "session_id": "sess161",
-      "room_id": "room107"
+      "room_id": "room107",
+      "description": "This session will present the outcomes of a National Science Foundation (NSF) funded project designed to encourage research experiences for students pursuing associate degrees. The project brought together students from a community college and a university's associate degree program to study spatiotemporal thinking, computing, and applications. It also emphasized the role of administration in supporting and promoting research opportunities for these students. The project aimed to provide associate degree students with the chance to engage in advanced research, developing critical thinking and problem-solving skills. By working with NSF researchers, students gained a deeper understanding of the research process and the importance of interdisciplinary collaboration. The program also sought to enhance students' academic preparation and improve their chances of transferring to four-year programs. The session will focus on strategies and practices for encouraging research experiences for associate degree students. It aims to provide a comprehensive understanding of the benefits of undergraduate research for two-year college students and share best practices for creating successful research opportunities at this level. The session will be of interest to community college faculty, administrators, and anyone promoting undergraduate research and student success. The session is divided into two parts. The first part includes discussions by faculty on student recruitment, training, mentoring, and administrative involvement. Faculty will share their experiences working with associate degree students on NSF-sponsored research projects, highlighting challenges and opportunities. The second part features presentations of student research results, including NSF-funded projects on topics like air pollution in the Port of Los Angeles and the creation of a Ukraine Data Lab and Archive. These presentations will showcase the high-quality research conducted by two-year students and provide a firsthand understanding of the benefits of undergraduate research. A Q&A session will follow, allowing participants to ask questions and learn more about the students' research projects. The agenda includes: Introduction and overview (5 minutes); Discussions by faculty on student recruitment, training, mentoring, and administrative involvement (15 minutes);Project Presentation 1 (10 minutes);Project Presentation 2 (10 minutes); Final Q&A session, conclusion, and wrap-up (10 minutes). I will bring students to the session to answer questions. Overall, this session will offer valuable insights into the benefits of undergraduate research for associate degree students and best practices for creating successful research opportunities at the two-year college level. It will provide guidance for faculty, administrators, researchers, and educators interested in promoting research and student success. Attendees will gain a better understanding of the benefits and process of undergraduate research for community college and associate degree students, with discussions on student recruitment, preparation, management, and mentoring, offering practical advice for establishing or improving similar programs. This session will be particularly beneficial for those looking to enhance the academic and professional prospects of associate degree students through research opportunities. By attending, participants will be equipped with the knowledge and tools needed to foster a research-rich environment in their institutions, ultimately contributing to the overall success and development of their students."
     },
     {
       "time": "6:30pm - 9:30pm CDT",
@@ -604,7 +671,8 @@
       "contributors": "Jennifer Tour Chayes",
       "location": "Texas Ballroom",
       "session_id": "sess136",
-      "room_id": "room108"
+      "room_id": "room108",
+      "description": "The dinner reception includes presentation of awards to Tapia Conference competition winners and the 2025 Tapia Award recipient, Dr. Jennifer Tour Chayes. A dance party will follow the award presentations."
     },
     {
       "time": "8:00am - 5:30pm CDT",
@@ -613,7 +681,8 @@
       "contributors": "",
       "location": "Grapevine A/B",
       "session_id": "sess152",
-      "room_id": "room126"
+      "room_id": "room126",
+      "description": "For more information and to register, visit: Stars Celebration. The 2025 STARS Celebration will be a co-located event held on Saturday, September 13, 2025. STARS is a student-centered organization dedicated to empowering the next generation of diverse computing leaders by fostering supportive communities, igniting action, and building sustainable pathways to a more equitable tech workforce. The annual STARS Celebration is an in-person event designed to build and sustain the STARS community – bringing together current and future students, alumni, chapter leaders, and advocates. The event features sessions designed to: Elevate student voices and experiences. Support active engagement across chapters and between current students and alumni. Engage STARS alumni and grow the STARS Alumni Network. These sessions will include best practices and resources for broadening participation in computing and AI, with hands-on training workshops for conducting justice-centered computing and AI outreach programs, tech talks on emerging topics in research and industry, and career advancement sessions."
     },
     {
       "time": "9:00am - 3:00pm CDT",
@@ -622,7 +691,8 @@
       "contributors": "Brianna Blaser, Maya Cakmak, Richard Ladner, Raja Kushalnagar, Stacy Branham",
       "location": "Dallas 1-2",
       "session_id": "sess204",
-      "room_id": "room118"
+      "room_id": "room118",
+      "description": "Companies want engineers that can build accessible technology, because creating an accessible digital world requires people to design and build that world to be accessible. In our community, there’s exciting accessibility research being done by computer scientists, and yet many computing students are not being taught about accessibility in their courses. This workshop will give you a crash course on accessibility, expose you to research projects related to accessibility, and help you find ways to build your skills after the workshop ends."
     }
   ]
 }
