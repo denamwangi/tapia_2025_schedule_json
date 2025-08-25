@@ -4,7 +4,7 @@ This repository contains the schedule data for the [Tapia 2025 Conference](https
 
 ## Data Source
 
-The schedule data was scraped from the official Tapia 2025 Conference website and represents the complete program spanning from September 9-13, 2025, held in Austin, Texas.
+The schedule data was scraped from the official Tapia 2025 Conference website and represents the complete program spanning from September 9-13, 2025, held in Dallas, Texas.
 
 ## JSON Structure
 
